@@ -1,0 +1,19 @@
+{
+  "name": "travis_1410",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShekhovtcovaE/travis_test1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShekhovtcovaE/travis_test1/issues"
+  },
+  "homepage": "https://github.com/ShekhovtcovaE/travis_test1#readme"
+}
